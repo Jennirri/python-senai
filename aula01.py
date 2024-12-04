@@ -1,0 +1,5 @@
+print('Oláa mundo!') 
+print('tudo bem com vocês?')
+print('espero que gostem do contéudo')
+print('preparei com bastante dedicação')
+print('viver um dia após o outro')
